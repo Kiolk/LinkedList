@@ -30,5 +30,7 @@ linkedList.addToHead('Forth');
 
 console.log(linkedList);
 
+linkedList.addToHead('Fifth');
 
+console.log(linkedList);
 
